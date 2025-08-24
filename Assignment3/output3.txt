@@ -1,0 +1,7 @@
+Sl.No  Name   Id     Type     Scope     Value
+1      x1     var    float    global   3.125
+2      f1     func   double   global   
+3      z      var    double   f1       0.01
+4      main   func   int      global   
+5      n1     var    int      main     25
+6      z      var    double   main     

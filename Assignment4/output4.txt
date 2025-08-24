@@ -1,0 +1,7 @@
+Unmatched '}' on line 7
+Unmatched '}' on line 9
+Unmatched '{' on line 12
+Unmatched '{' on line 12
+Unmatched '{' on line 12
+Duplicate variable ('double', 'z') on line 13
+Duplicate variable ('float', 'x1') on line 13
